@@ -51,3 +51,7 @@ streamlit run app.py
 
 A função de aptidão prioriza o atributo correto de acordo com a arma escolhida, 
 além de aplicar ajustes específicos para determinadas classes e raças.
+
+# Links do dataset, caso o git lfs não esteja configurado
+https://www.kaggle.com/datasets/jairohernandez/d-and-d-5e-monster-stats
+https://www.kaggle.com/datasets/maximebonnin/dnd-characters-test
